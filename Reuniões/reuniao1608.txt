@@ -1,13 +1,7 @@
 Ata reunião 16/08:
 
--
--
--
--
--
--
--
--
--
--
-
+- Criamos os layouts à partir do Figma.
+- Sugestão da Thatiany: inclusão do recaptcha.
+- Sugestão do Gagego de 09/08: inclusão de contas pessoa física e jurídica para mesmo usuário/conta da aplicação.
+- Pendências: Solicitar ao Gagego e-mail para compartilhar o Figma.
+- Próxima reunião -> Domingo dia 23/08 as 16horas. Pauta: Decidir identidade visual, logo e iniciar especificações funcionais (à confirmar).
